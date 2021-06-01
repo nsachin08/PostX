@@ -1,0 +1,9 @@
+# Prototyping the application and environment setup. 
+	Validate the architecture and components used in the peoject.
+	Get better understanding the stags of the project.
+
+#Install Nodejs, MongoDb. , MongoDb Atlas account
+
+#Build Frontend . Using HTML , CSS , JAVASCRIPT. 
+
+#test1234 , test1234

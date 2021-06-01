@@ -1,0 +1,57 @@
+.header-bar {
+    background: black;
+}
+
+body {
+    min-height: 100vh;
+}
+
+/*img{
+    width:500px;
+    height:300px;
+}*/
+
+.guest-photo{
+    position: absolute;
+    bottom: 0;
+   width: 100%;
+}
+
+
+.avatar-small {
+    width: 32px;
+    height: 32px;
+    border-radius: 16px;
+    margin-right: 5px;
+    position: relative;
+    top: -3px;
+}
+
+.avatar-tiny {
+    width: 24px;
+    height: 24px;
+    border-radius: 12px;
+    margin-right: 4px;
+    position: relative;
+    top: -1px;
+}
+
+.pt-2, .py-2 {
+    padding-top: .5rem!important;
+}
+
+.d-inline {
+    display: inline!important;
+}
+
+.cntr{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#fo4 {
+    width:800px;
+    height: 500px;
+}
