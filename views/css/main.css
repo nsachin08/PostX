@@ -1,20 +1,58 @@
+*{
+    margin:0;
+    padding:0;
+}
+
 .header-bar {
     background: black;
 }
 
-body {
-    min-height: 100vh;
-}
-
+html, body {
+    height: 100%;
+  }
 /*img{
     width:500px;
     height:300px;
 }*/
 
-.guest-photo{
-    position: absolute;
-    bottom: 0;
-   width: 100%;
+.container{
+    min-height: 100%;
+}
+
+.chatbox{
+    height: 600px;
+    overflow-y: auto;
+}
+
+.typemsg{
+    width: 92%;
+}
+
+.message {
+    
+    width:24%;
+    padding:10px;
+    margin: 17px 3px;
+    border-radius: 10px;
+}
+
+.left{
+    background-color: #deeaee;
+    float:left;
+    clear:both;
+}
+
+.right
+{   
+    background-color: #80ced6;
+float:right;
+clear:both;
+}
+
+#guest-photo{
+    
+    width:600px;
+    height:500px;
 }
 
 
@@ -54,4 +92,20 @@ body {
 #fo4 {
     width:800px;
     height: 500px;
+}
+
+footer{
+    position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.card-header
+{
+    display: flex;
+    justify-content: space-between;
 }
