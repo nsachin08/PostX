@@ -9,6 +9,10 @@ PostX is a web-app made using NodeJs, express , HTML, CSSS, Socket.io, PassportJ
 - Users can do CRUD operations to their post.
 
 # Screenshots
+![](/1.png)
+![](/2.png)
+![](/3.png)
+![](/5.png)
 
 # For Development
 
