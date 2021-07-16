@@ -4,13 +4,13 @@ Visit the Project : https://postx08.herokuapp.com/
 
 PostX is a web-app made using NodeJs, express , HTML, CSSS, Socket.io, PassportJs.
 
-#Features 
+# Features 
 - Users can create personal Account and chat with other users .
 - Users can do CRUD operations to their post.
 
-#Screenshots
+# Screenshots
 
-#For Development
+# For Development
 
 Steps to run:
 
